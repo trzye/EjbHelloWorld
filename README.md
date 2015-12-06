@@ -2,7 +2,7 @@
 
 Prosta aplikacja do zapoznania z technologią Ejb.
 
-• GitHub: <a href="http://github.com/trzye/EjbHelloWorld">TIWO 1</a>
+• GitHub: <a href="http://github.com/trzye/EjbHelloWorld">EjbHelloWorld</a>
 
 • Użyte technologie: <b>Jdk 1.8, Ejb 3.0, Wildfly 9.0, Oracle Express 11.0.2.0</b>
 
