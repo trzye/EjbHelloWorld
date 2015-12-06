@@ -1,0 +1,1 @@
+Typowe po³¹czenie z bazami oracle.
